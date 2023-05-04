@@ -2,10 +2,10 @@
 This repo contains scratch implementation of various algorithms done using NumPy, Pandas and Python
 
 Following algorithmns are implemented from scratch:
-  1. Linear Regression
-  2. Logistic Regression
-  3. K-Nearest Neighbors
+  1. Extreme Gradient Boosing (XGBoost)
+  2. Gradient Boosting Classifier and Regressor
+  3. Random Forest
   4. Descision Tree
-  5. Random Forest
-  6. Gradient Boosting Classifier and Regressor
-  7. Extreme Gradient Boosing (XGBoost)
+  5. K-Nearest Neighbors
+  6. Logistic Regression
+  7. Linear Regression
