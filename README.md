@@ -9,3 +9,4 @@ Following algorithmns are implemented from scratch:
   5. K-Nearest Neighbors
   6. Logistic Regression
   7. Linear Regression
+  8. Principal Component Analysis (PCA)
